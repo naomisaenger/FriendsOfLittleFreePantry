@@ -5,9 +5,13 @@ You can use the [editor on GitHub](https://github.com/naomisaenger/FriendsOfLitt
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
