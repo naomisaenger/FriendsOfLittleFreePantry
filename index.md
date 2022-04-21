@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 #### Link back to Burrito Brigade
-Here it is [Burrito Briagde Home Page](https://pages.github.com/).
+Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 
 
