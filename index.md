@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/naomisaenger/FriendsOfLitt
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
