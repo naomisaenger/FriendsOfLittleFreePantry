@@ -17,6 +17,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Here it is [Burrito Briagde Home Page](https://pages.github.com/).
 
 
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
 
 ```diff
 text in red
