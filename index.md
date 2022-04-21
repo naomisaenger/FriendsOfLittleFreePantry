@@ -21,7 +21,8 @@ Here it is [Burrito Briagde Home Page](https://pages.github.com/).
 ```diff
 text in red
 
-"-! Warning !-" + text in green
+"-! Warning !-" 
++ text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
