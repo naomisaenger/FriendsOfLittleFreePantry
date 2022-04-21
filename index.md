@@ -1,14 +1,28 @@
-## Welcome to Friends of Little Free Pantry
+# Welcome to Friends of Little Free Pantry
 
 You can use the [editor on GitHub](https://github.com/naomisaenger/FriendsOfLittleFreePantry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-# <style>
+## Purpose:
+
+
+## Link back to Burrito Brigade
+Here it is [Burrito Briagde Home Page](https://pages.github.com/).
+
+<style>
 red { color: red }
 yellow { color: yellow }
 </style>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <red> red color markdown text</red>
 <yellow> red color markdown text</yellow>
