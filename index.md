@@ -8,24 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Purpose:
 
 
-## Link back to Burrito Brigade
+#### Link back to Burrito Brigade
 Here it is [Burrito Briagde Home Page](https://pages.github.com/).
 
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
+
 
 ```diff
-- text in red
+text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
