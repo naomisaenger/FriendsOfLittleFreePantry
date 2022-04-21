@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/naomisaenger/FriendsOfLitt
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
 ## Purpose:
 
@@ -12,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Here it is [Burrito Briagde Home Page](https://pages.github.com/).
 
 
--! Warning !-
+
 ```diff
 text in red
 + text in green
