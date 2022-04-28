@@ -1,8 +1,4 @@
-# Welcome to Friends of Little Free Pantry
-
-You can use the [editor on GitHub](https://github.com/naomisaenger/FriendsOfLittleFreePantry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Welcome to Friends of Little Free Pantry by Burrito Brigade
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
@@ -10,38 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
-## Purpose:
-
+## Purpose: Food insecuity is a complex issue that can be greatly helped with greater community engagement. The map below is for all Food Pantries and Little Free Pantries to use or stock. If you are interested in a notification on when a Little Free Pantry is empty click here. If you interesting in becoming a Friend of a Little Free Pantry and pledging to stock 3 pantries a month, click here. Regardless if you are stocking or using, we support you and you are loved. 
 
 #### Link back to Burrito Brigade
 Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 
 
-```diff
-text in red
-
-"-! Warning !-" text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
