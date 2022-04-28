@@ -8,7 +8,7 @@ Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 
 
-<iframe src="Little Free Pantries Map.html" width="640" height="480"></iframe> 
+<iframe src="LittleFreePantriesMap.html" width="640" height="480"></iframe> 
 
 
 
