@@ -8,7 +8,7 @@ Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 
 
-<iframe src="LittleFreePantriesMap.html" width="640" height="480"></iframe> 
+<iframe src="Little Free Pantries - Eugene Springfield - Google My Maps.html" width="640" height="480"></iframe> 
 
 
 
