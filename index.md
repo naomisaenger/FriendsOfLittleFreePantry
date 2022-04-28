@@ -10,7 +10,7 @@ Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1n3ZEHfPLLEv3wclnd_oSZwPeg2lbZTAB&ehbc=2E312F" width="640" height="480"></iframe> 
 
-
+<iframe src="Ithaca-map.html" height="500" width="500"></iframe> 
 
 [Link](url) and ![Image](src)
 ```
