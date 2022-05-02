@@ -6,7 +6,7 @@
 #### Link back to Burrito Brigade
 Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1n3ZEHfPLLEv3wclnd_oSZwPeg2lbZTAB&ehbc=2E312F" width="640" height="480"></iframe>
 <iframe src="<!DOCTYPE html><html itemscope itemtype="http://schema.org/WebSite"><head><title itemprop="name">Little Free Pantries - Eugene &amp; Springfield - Google My Maps</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width"/><meta name="description" itemprop="description" content="Find a little free pantry in the Eugene, Springfield, and Junction City areas.
 https://burritobrigade.org/pantries/
 
