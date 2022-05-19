@@ -7,7 +7,7 @@
 Here is [Burrito Briagde Home Page](https://burritobrigade.org/).
 
 ## About me
-<a href="about.html" title="About Me">About Me</a>
+<a href="https://<user.name>.github.io/<repo.name>/about.html" title="About Me">About Me</a> 
 
 
 <iframe
