@@ -21,31 +21,31 @@
 
 		// Initialize and add the map
 		function initMap() {
-		  // The location of downtown eugene
-		  const downtown = { lat: 44.05109918945712, lng: -123.08484838938584 };
-		  // The map, centered at downtown eugene
-		  const map = new google.maps.Map(document.getElementById("map"), {
-		    zoom: 13,
-		    center: downtown,
-		  });
+			// The location of downtown eugene
+			const downtown = { lat: 44.05109918945712, lng: -123.08484838938584 };
+			// The map, centered at downtown eugene
+			const map = new google.maps.Map(document.getElementById("map"), {
+			zoom: 13,
+			center: downtown,
+			});
 
-		  // a manually placed marker, positioned at downtown
-		  // this one has some extra config
-		  const marker = new google.maps.Marker({
-		  	title: "this is Downtown",
-		  	label: "Downtown!",
-		  	icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
-		    position: downtown,
-		    map: map,
-		  });
+			// a manually placed marker, positioned at downtown
+			// this one has some extra config
+			const marker = new google.maps.Marker({
+			title: "this is Downtown",
+			label: "Downtown!",
+			icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
+			position: downtown,
+			map: map,
+			});
 
-		  // iterating over the list of pins and placing them
-		  for(const pin in pins){
-		  	new google.maps.Marker({
-			    position: pins[pin],
-			    map: map,
-			  });
-		  }
+			// iterating over the list of pins and placing them
+			for(const pin in pins){
+				new google.maps.Marker({
+					position: pins[pin],
+					map: map,
+				});
+			}
 		}
 
 		window.initMap = initMap;
