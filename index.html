@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,8 @@
 	<script type="text/javascript">
 
 		// markers: https://developers.google.com/maps/documentation/javascript/markers
-		// these marker configs would ideally be loaded via an AJAX request
+		// TODO: these marker configs should be loaded via an AJAX request from http://www.reportthatpantry.org/status
+		// TODO: each pantry location would be marked red if empty and green if full
 		const pins = [
 			// the whit
 			{ lat: 44.05800786820259, lng: -123.11471746854578 },
@@ -29,14 +30,15 @@
 			center: downtown,
 			});
 
-			// a manually placed marker, positioned at downtown
+			// TODO: manually placed markers, source unsure?
+			// TODO: add locations of the regular food banks and show if it’s closed or open
 			// this one has some extra config
 			const marker = new google.maps.Marker({
-			title: "this is Downtown",
-			label: "Downtown!",
-			icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
-			position: downtown,
-			map: map,
+				title: "this is Downtown",
+				label: "Downtown!",
+				icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png",
+				position: downtown,
+				map: map,
 			});
 
 			// iterating over the list of pins and placing them
@@ -63,6 +65,12 @@
 <body>
 	<h1>map</h1>
 	<div id="map">loading...</div>
+	<div>
+		<ul>
+			<li>adding an additional feature of a text/email notification a user could sign up for if a LFP in their Eugene neighborhood (south Eugene, the whit, downtown) is empty. </li>
+			<li>a pledge that a user could sign up for where they pledge to stock 2-3 LFPs a month. The user would be called a “Friend of Little Free Pantry” (which is where the name comes from on the GitHub page). I’m thinking this could be something they sign up for so that Burrito Brigade could email them LFP updates. </li>
+		</ul>
+	</div>
 	<!-- this is using a key I registered with google cloud -->
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDM2dFZOBWe9zYu6jUplwJJ-qvQzreBtek&callback=initMap&v=weekly"
